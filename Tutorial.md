@@ -195,4 +195,4 @@ Add a second test suite in `.cabal` if desired.
 | **QuickCheck**    | Library for property‐based testing in Haskell.                                               |
 
 # Developer
-Colile Sibanda
+Colile  Sibanda
