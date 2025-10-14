@@ -197,4 +197,4 @@ Add a second test suite in `.cabal` if desired.
 
 Coxygen Global
 Developer
-Matimba Mtileni
+Colile Sibanda
