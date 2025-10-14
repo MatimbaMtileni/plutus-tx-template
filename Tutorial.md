@@ -194,5 +194,7 @@ Add a second test suite in `.cabal` if desired.
 | **Hspec**         | Haskell testing framework for behavior‐driven development.                                   |
 | **QuickCheck**    | Library for property‐based testing in Haskell.                                               |
 
-# Developer
-Colile  Sibanda
+
+Coxygen Global
+Developer
+Colile Sibanda
